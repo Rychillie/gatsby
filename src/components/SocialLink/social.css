@@ -1,0 +1,30 @@
+.social-content {
+  margin: 2rem auto;
+  width: 100%;
+}
+
+.social-content ul {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.social-content li {}
+
+.social-content a {
+  color:#8899a6;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+.social-content a:hover {
+  color: #1fa1f2;
+}
+
+.icon-container {
+  fill: #bbbbbb;
+  width: 30px;
+  height: 30px;
+}
+

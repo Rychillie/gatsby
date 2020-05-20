@@ -1,0 +1,20 @@
+.profile-container {
+  /* border-right:1px solid #16202c */
+}
+
+.profile-container h1 {
+  color: #fff;
+  font-size: 2rem;
+  padding: 0.8rem 0;
+}
+
+.profile-container h2 {
+  font-size: 1rem;
+  color:#fff;
+}
+
+.profile-container p {
+  font-size: 1rem;
+  color: #fff;
+  padding-top: 10px;
+}

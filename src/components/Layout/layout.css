@@ -1,0 +1,10 @@
+.container-layout {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-content {
+  width: 100%;
+  
+}
